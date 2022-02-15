@@ -11,6 +11,7 @@ function App() {
       <h2 className={style.header} style={{color:"blue"}}>Olá, Olá!</h2>
       <Input text={text}/>
       <Button text={text}/>
+      <Button text={'Porto'}/>
     </>
   )
 }
